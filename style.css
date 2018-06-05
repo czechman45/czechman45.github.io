@@ -1,16 +1,3 @@
-body, html {
-    height: 100%;
+body {
     color: red;
-}
-
-.bg { 
-    /* The image used */
-    background-image: url("palp.jpg");
-   /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
